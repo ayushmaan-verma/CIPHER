@@ -50,5 +50,40 @@ This project was developed as an academic mini-project with a focus on **bit man
 | 4 | 6 |
 | 5 | 1 |
 
-The program runs via a simple menu-driven interface:
+
+Applying the decryption process restores the original message exactly.
+
+---
+
+## ⚙️ Implementation Details
+- Language: C  
+- Compiler: GCC  
+- Platform: Linux  
+- Input Handling: `fgets()`  
+- Core Concepts: Bitwise XOR, string reversal, loops, conditionals  
+
+---
+
+## ✅ Advantages
+- Nonlinear and unpredictable transformations  
+- AI-resistant encryption pattern  
+- Minimal computational overhead  
+- No external libraries required  
+- Strong educational value  
+
+---
+
+## 🎯 Learning Outcomes
+- Understanding symmetric cryptography  
+- Practical bitwise manipulation  
+- Secure string handling in C  
+- Algorithm design and reversibility  
+- Cryptography fundamentals  
+
+---
+
+## 🚀 Conclusion
+CIPHER demonstrates how simple operations like XOR and controlled character transformations can create complex and secure encryption systems.  
+It is both a practical security tool and a strong foundational project in **C programming and cryptography**.
+
 
